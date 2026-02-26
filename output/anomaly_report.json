@@ -1,0 +1,156 @@
+[
+    {
+        "date": "2026-01-24",
+        "context": "category: Laptop",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 162.36% from normal",
+        "metric_value": 691562.14,
+        "possible_reason": "A potential reason for this anomaly could be a limited-time promotion or a new product launch in the Laptop category, which may have attracted a large number of customers.",
+        "risk_level": "high",
+        "suggested_action": "Verify the sales data for any new product launches or promotions in the Laptop category and review the pricing strategy to ensure it is competitive.",
+        "confidence_score": 0.85
+    },
+    {
+        "date": "2026-02-11",
+        "context": "category: Laptop",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 198.91% from normal",
+        "metric_value": 787888.89,
+        "possible_reason": "A bulk corporate order or a large-scale promotion for a new laptop model may have contributed to the revenue spike.",
+        "risk_level": "medium",
+        "suggested_action": "Verify the sales data for any large corporate orders or promotions scheduled around this date, and review the product offerings and pricing for any new laptop models.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "2026-02-11",
+        "context": "category: Mobile",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 136.90% from normal",
+        "metric_value": 624430.51,
+        "possible_reason": "A bulk corporate order or a successful marketing campaign targeting the Mobile category may have caused this revenue spike.",
+        "risk_level": "high",
+        "suggested_action": "Verify if there are any large corporate orders or successful marketing campaigns scheduled for the Mobile category around this date.",
+        "confidence_score": 0.85
+    },
+    {
+        "date": "2026-01-09",
+        "context": "category: Mobile",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 105.21% above normal",
+        "metric_value": 7,
+        "possible_reason": "A new mobile phone model was likely released on this date, causing a surge in sales.",
+        "risk_level": "high",
+        "suggested_action": "Verify if a new mobile phone model was released on 2026-01-09 and review inventory levels to prevent stockouts.",
+        "confidence_score": 0.85
+    },
+    {
+        "date": "2026-01-14",
+        "context": "category: Laptop",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 163.84% above normal",
+        "metric_value": 9,
+        "possible_reason": "A bulk corporate order or a special promotion for students may have caused the surge in laptop sales.",
+        "risk_level": "medium",
+        "suggested_action": "Review sales data for the past week to identify any patterns or anomalies in customer demographics, and verify if there are any upcoming events or promotions that could have contributed to the surge.",
+        "confidence_score": 0.7
+    },
+    {
+        "date": "2026-02-07",
+        "context": "category: Mobile",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 105.21% above normal",
+        "metric_value": 7,
+        "possible_reason": "A sudden increase in demand for mobile devices, possibly due to a new product launch or a limited-time promotion.",
+        "risk_level": "medium",
+        "suggested_action": "Verify sales data for the past week to identify any new product launches or promotions, and review inventory levels to ensure they can meet the increased demand.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "2026-02-11",
+        "context": "category: Tablet",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 105.21% above normal",
+        "metric_value": 7,
+        "possible_reason": "A bulk corporate order or a special promotion for a specific tablet model might have triggered this surge in sales.",
+        "risk_level": "medium",
+        "suggested_action": "Review sales data for the specific tablet model and check for any corporate or promotional orders scheduled for February 11th.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "2026-02-13",
+        "context": "category: Mobile",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 105.21% above normal",
+        "metric_value": 7,
+        "possible_reason": "A sudden surge in demand for mobile devices, possibly due to a new product launch or a limited-time promotion.",
+        "risk_level": "medium",
+        "suggested_action": "Verify if there's a new product launch or a promotional campaign scheduled for the mobile category around this date, and review inventory levels to ensure they can meet the increased demand.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "2026-02-13",
+        "context": "category: Tablet",
+        "anomaly_type": "quantity surge",
+        "details": "surge of 105.21% above normal",
+        "metric_value": 7,
+        "possible_reason": "A bulk corporate order or a large educational institution purchase may have triggered this surge in tablet sales.",
+        "risk_level": "medium",
+        "suggested_action": "Verify if there are any large corporate or institutional orders scheduled for the next few days and review sales data from similar periods in previous years.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "2026-01-15",
+        "context": "city: Mumbai",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 174.36% from normal",
+        "metric_value": 685110.7,
+        "possible_reason": "A bulk corporate order or a large festival campaign in Mumbai might have contributed to this revenue spike.",
+        "risk_level": "medium",
+        "suggested_action": "Verify large orders or campaigns scheduled for Mumbai on 2026-01-15 and review sales data from neighboring cities to identify any unusual patterns.",
+        "confidence_score": 0.72
+    },
+    {
+        "date": "2026-01-18",
+        "context": "city: Mumbai",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 151.44% from normal",
+        "metric_value": 627884.51,
+        "possible_reason": "Potential bulk corporate order or a successful marketing campaign in Mumbai, possibly related to the upcoming Makar Sankranti festival.",
+        "risk_level": "medium",
+        "suggested_action": "Verify sales data for any large corporate orders and review marketing campaigns scheduled for the Mumbai region around the time of the anomaly.",
+        "confidence_score": 0.72
+    },
+    {
+        "date": "2026-02-05",
+        "context": "city: Hyderabad",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 224.68% from normal",
+        "metric_value": 810785.49,
+        "possible_reason": "A large corporate order or a successful marketing campaign in the city of Hyderabad may have contributed to this revenue spike.",
+        "risk_level": "medium",
+        "suggested_action": "Verify sales data for the city of Hyderabad on 2026-02-05 to identify the source of the revenue spike and review marketing campaigns for the region.",
+        "confidence_score": 0.7
+    },
+    {
+        "date": "2026-02-11",
+        "context": "city: Mumbai",
+        "anomaly_type": "revenue spike",
+        "details": "Spike of 191.65% from normal",
+        "metric_value": 728292.63,
+        "possible_reason": "A bulk corporate order or a large festival sale might have caused the revenue spike in Mumbai on 2026-02-11.",
+        "risk_level": "medium",
+        "suggested_action": "Verify if there were any large corporate orders or festival sales scheduled in Mumbai around that date, and review sales data from nearby cities to rule out any regional anomalies.",
+        "confidence_score": 0.8
+    },
+    {
+        "date": "aggregate",
+        "context": "product: MacBook Air M3, discount: 15%",
+        "anomaly_type": "abnormal discount usage",
+        "details": "transaction volume 127.50% above normal for this discount tier",
+        "metric_value": 7,
+        "possible_reason": "Bulk corporate order or a large group purchase with a negotiated discount rate",
+        "risk_level": "high",
+        "suggested_action": "Verify the transaction history for any large corporate or group purchases and review the discount configuration for the MacBook Air M3 product",
+        "confidence_score": 0.85
+    }
+]

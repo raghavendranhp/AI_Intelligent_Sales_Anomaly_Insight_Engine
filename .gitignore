@@ -1,0 +1,15 @@
+# Virtual Environments
+anm_venv/
+venv/
+env/
+
+# Secrets
+.env
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
