@@ -1,4 +1,4 @@
-```markdown
+
 # seshat ai - intelligent sales anomaly & insight engine
 
 an ai-powered module designed to detect unusual sales patterns in electronics retail data. it identifies anomalies and uses the groq api (llama-3.1-8b-instant) to generate logical explanations, assess business risks, and suggest actionable next steps.
